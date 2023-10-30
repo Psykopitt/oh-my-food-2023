@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Openclassrooms
 
 # Parcours Développeur Web 
@@ -51,3 +52,6 @@ Ohmyfood! est une jeune startup qui voudrait s'imposer sur le marché de la rest
 DEMO: 
 
 https://ohmyfood-dimitri_calvo.app
+=======
+OhMyFoodProject
+>>>>>>> f59300a53886c3829a98999d7e8843c24b1f71a0
