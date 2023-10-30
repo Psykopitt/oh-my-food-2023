@@ -1,11 +1,9 @@
 {
-  "name": "oh-my-food",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "sass": "sass --watch ./sass/main.scss:style.css"
+  "dependencies": {
+    "node-sass": "^9.0.0"
   },
-  "author": "",
-  "license": "ISC"
+  "scripts": {
+    "sass": "sass sass/main.scss:public/css/styles.css",
+    "scss": "node-sass --watch scss -o css"
+  }
 }
